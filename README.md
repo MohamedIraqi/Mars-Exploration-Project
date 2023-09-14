@@ -2,7 +2,7 @@
  
 # Advanced Mars Mission Simulation Project
 
-![Mars](mars_image.jpg)
+![Mars](MARS.jpg)
 
 Welcome to the Advanced Mars Mission Simulation Project repository. This project is a simulation of a Mars mission assignment system developed as part of a Data Structures and Algorithms course at Cairo University.
 

@@ -46,14 +46,8 @@ You can find sample input and output files in the respective folders to test dif
 
 ## Contributors
 
-- John Doe (john.doe@email.com)
-- Jane Smith (jane.smith@email.com)
-- Alice Johnson (alice.johnson@email.com)
+- Mohamed Iraqi (m.a.iraqi.amen@gmail.com)
+- Youssef Ismail (youssefismail1337@gmail.com)
+- Mohamed Abed 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-Feel free to explore and use this project as a learning resource for data structures and algorithms.
-
-![Mars Rover](mars_rover_image.jpg)

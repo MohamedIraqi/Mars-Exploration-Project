@@ -30,7 +30,7 @@ The goal of this project is to create a system that simulates the assignment of 
 
 To run the simulation, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/mars-mission-simulation.git`
+1. Clone this repository: `git clone https://github.com/MohamedIraqi/Mars-Exploration-Project`
 2. Compile the C++ code using your preferred compiler.
 3. Execute the compiled program with input files: `./mars-simulation input/inputfile.txt`
 
